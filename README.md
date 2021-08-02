@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NachiketGohil
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning @Flutter @Android app development
+- 🌱 I’m currently learning Flutter Android app development
 - 💞️ I’m looking to collaborate on User Interface and Experience
 - 📫 Contact me via Email nachiketgohil185@gmail.com
 

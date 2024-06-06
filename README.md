@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NachiketGohil.
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently developing apps on Flutter and Android.
-- 💞️ I’m looking to collaborate on Mobile app Development and User Interface and Experience
-- 📫 Contact me via Email nachiketgohil185@gmail.com
+- 🌱 I’m currently developing apps on Flutter, Flutter Flow, Android and iOS.
+- 😎 I'm trying to contribute in Flutter Frameworka and other community packages.
+- 💞️ I’m looking to collaborate on Mobile app Development and User Interface & Experience.
+- 📫 Contact me via Email nachiketgohil185@gmail.com.
 
 <!---
 NachiketGohil/NachiketGohil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
